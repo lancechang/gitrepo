@@ -14,7 +14,7 @@ ATP_MESSAGE_MAX_DELAY = 2**21
 
 # 增加了一堆内容
 
-CC1_INIT_TIME = 0
+CC1_INIT_TIME = 0 # 第三次修改东西
 CC1_MAX_TIME = 2**29 - 1
 CC2_INIT_TIME = 2**29
 CC2_MAX_TIME = 2**30 - 1
